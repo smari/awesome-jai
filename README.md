@@ -21,6 +21,7 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
    * [Vulkan](https://github.com/osor-io/Vulkan) - Vulkan tooling for Jai.
    * [Raylib](https://github.com/kevinw/raylib-jai) - bindings for Raylib, a minimal gamedev library.
    * [Im3d](https://github.com/ostef/jai-im3d) - Stefan's bindings for Im3d
+   * [bgfx](https://github.com/DrProfesor/jai-bgfx) - BGFX bindings
  * **Cryptography**
    * [Crypto](https://github.com/smari/jai-crypto) - Cryptographic primitives library.
  * **Networking**
