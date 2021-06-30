@@ -18,31 +18,36 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
  * **GUI/UI**
    * [ImGUI](https://github.com/kevinw/jai-imgui/) - IMGUI bindings for Jai.
  * **Graphics**
-   * [Vulkan](https://github.com/osor-io/Vulkan) - Vulkan tooling for Jai.
+   * [bgfx](https://github.com/DrProfesor/jai-bgfx) - Bindings for bgfx.
+   * [Im3d](https://github.com/ostef/jai-im3d) - Stefan's bindings for Im3d.
    * [Raylib](https://github.com/kevinw/raylib-jai) - bindings for Raylib, a minimal gamedev library.
-   * [Im3d](https://github.com/ostef/jai-im3d) - Stefan's bindings for Im3d
+   * [Sokol](https://github.com/judah-caruso/jai-sokol) - Bindings for Sokol.
+   * [Vulkan](https://github.com/osor-io/Vulkan) - Vulkan tooling for Jai.
  * **Cryptography**
    * [Crypto](https://github.com/smari/jai-crypto) - Cryptographic primitives library.
  * **Networking**
-   * [Socket](https://github.com/smari/jai-socket) - Basic socket library.
    * [GameNetworkingSockets](https://github.com/Manquia/gns-jai) - Bindings for GameNetworkingSockets.
+   * [Socket](https://github.com/smari/jai-socket) - Basic socket library.
+   * [Winsock](https://github.com/judah-caruso/jai-winsock) - Bindings for Winsock 1.
+   * [Winsock 2](https://github.com/judah-caruso/jai-winsock2) - Bindings for Winsock 2. 
  * **Databases**
    * [Postgresql](https://github.com/rluba/jai-postgres) - Postgres bindings.
-   * [Redis](https://github.com/smari/jai-redis)
+   * [Redis](https://github.com/smari/jai-redis) - Redis API library.
  * **File formats**
    * [CSV](https://github.com/rluba/jai-csv) - CSV file reader.
+   * [GDAL](https://github.com/smari/jai-gdal) - GDAL library interface; handles dozens of file graphical/geographical file formats.
    * [INI](https://github.com/smari/jai-ini) - INI file reader/writer.
    * [JSON](https://github.com/rluba/jason) - JSON reader/writer.
-   * [GDAL](https://github.com/smari/jai-gdal) - GDAL library interface; handles dozens of file graphical/geographical file formats.
  * **Utilities**
+   * [C](https://github.com/judah-caruso/C) - Interop library for writing C bindings. 
    * [jai-string](https://github.com/onelivesleft/jai-string) - onelivesleft's String library.
    * [Magic](https://github.com/smari/jai-magic) - libmagic bindings.
+   * [Steam API](https://github.com/onelivesleft/jai-steam) - Steam API library.
    * [Uniform](https://github.com/rluba/uniform) - Fully-featured regular expression library.
-   * [Steam API](https://github.com/onelivesleft/jai-steam) - Steam API library
  * **Testing**
-   * [Stubborn](https://github.com/rluba/stubborn) – Minimal test runner and assertion library.
+   * [Stubborn](https://github.com/rluba/stubborn) - Minimal test runner and assertion library.
  * **Algorithms**
-   * [sat_solver](https://github.com/danieljktan/sat_solver) - Boolean Satisfiability Solver
+   * [sat_solver](https://github.com/danieljktan/sat_solver) - Boolean Satisfiability Solver.
 
 ## Example code
 
